@@ -31,7 +31,7 @@ Este projeto apresenta uma análise exploratória de dados (EDA) sobre vendas re
 ## 📈 Exemplos de Insights
 
 - Produtos com maior volume de vendas podem não ser os que mais geram receita.
-- A categoria "X" se destaca tanto em receita quanto em volume.
+- A categoria "Livros" se destaca tanto em receita quanto em volume.
 - Estados com maior população nem sempre são os que mais consomem.
 - Correlação entre preço e volume ajuda a entender elasticidade da demanda.
 
